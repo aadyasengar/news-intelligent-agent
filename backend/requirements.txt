@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+vaderSentiment==3.3.2
+feedparser==6.0.10
+nltk==3.8.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+python-multipart==0.0.6
+rake-nltk==1.0.6
+websockets==12.0
